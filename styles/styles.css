@@ -1,0 +1,22 @@
+@import url(1header.css);
+
+:root {
+    --fonte-inter: "Inter", sans-serif;
+    /* .inter {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-variation-settings:
+          "slnt" 0;
+      } */
+
+    --cinza-claro: #667085;
+    --cinza-escuro: #3A404E;
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+}
+
+body {
+
+}
