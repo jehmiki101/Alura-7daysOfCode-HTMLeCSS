@@ -7,9 +7,12 @@
 
     --cinza-claro: #667085;
     --cinza-escuro: #3A404E;
+    --cinza-borda: #EAECF0;
+    --cinza-background: #F9FAFB;
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --azul-escuro: #101828;
+  
 }
 
 body {
